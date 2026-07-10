@@ -1,4 +1,6 @@
-<a href="https://www.pdftochat.com/">
+<img alt="PDFToChat – Chat with your PDFs in seconds." src="./public/og-image.png">
+
+<!-- <a href="https://www.pdftochat.com/">
   <img alt="PDFToChat – Chat with your PDFs in seconds." src="./public/og-image.png">
   <h1 align="center">PDFToChat</h1>
 </a>
@@ -100,4 +102,9 @@ These are some future tasks that I have planned. Contributions are welcome!
 - [ ] Use a self-designed custom uploader
 - [ ] Use a session tracking tool to better understand how folks are using the site
 - [ ] Add better error handling overall with appropriate toasts when actions fail
-- [ ] Add support for images in PDFs with something like [Nougat](https://replicate.com/meta/nougat)
+- [ ] Add support for images in PDFs with something like [Nougat](https://replicate.com/meta/nougat) -->
+
+
+<!-- npx prisma generate
+npx prisma db push
+npx prisma studio -->

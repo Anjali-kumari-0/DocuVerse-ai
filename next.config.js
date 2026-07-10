@@ -11,8 +11,8 @@ const nextConfig = {
       },
     ],
   },
-  experimental: {
-    esmExternals: 'loose',
+  // experimental: {
+    // esmExternals: 'loose',
     outputFileTracingExcludes: {
       '*': [
         'node_modules/onnxruntime-node/**',
@@ -21,7 +21,7 @@ const nextConfig = {
         'node_modules/@chroma-core/default-embed/**',
       ],
     },
-  },
+  // },
   webpack: (config) => {
     config.externals = [
       ...config.externals,
